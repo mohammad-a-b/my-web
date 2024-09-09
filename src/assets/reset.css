@@ -1,0 +1,21 @@
+* {
+  font-family: "Poppins";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: #393939;
+}
+button {
+  outline: 0;
+  border: 0;
+  background: transparent;
+}
+ul {
+  list-style: none;
+}
+p{
+  color: #90A3B4;
+}
